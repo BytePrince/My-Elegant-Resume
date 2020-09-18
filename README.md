@@ -10,7 +10,7 @@
 
    效果如下：
 
-<img src="example.png" style="zoom:67%;" />
+<img src="https://pic.downk.cc/item/5f648a43160a154a6746ec4c.png" style="zoom:67%;" />
 
 ## 🚀 开始
 
