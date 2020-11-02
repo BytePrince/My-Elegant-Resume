@@ -10,7 +10,7 @@
 
    效果如下：
 
-<img src="https://pic.downk.cc/item/5f648a43160a154a6746ec4c.png" style="zoom:67%;" />
+[点我预览效果](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-imgbed/85854c6a-8f28-4974-8ef1-aeda3769b068.jpg)
 
 ## 🚀 开始
 
